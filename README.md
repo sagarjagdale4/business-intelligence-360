@@ -1,7 +1,7 @@
 # Business Intilligence 360 — Power BI Dashboard
 
 **Tools:** Power BI Desktop, Power Query, DAX, MySQL, Excel  
-**Published:** [Power BI Online Link] : ([https://app.powerbi.com/groups/9305f1be-4c49-4649-9787-33951d391de3/reports/41c63d92-6e4b-45f4-ad4b-a5cc3481c368?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNmMxNGYwMTMtODk1Ni00MjY1LWI5ZTktNmM0Y2M0ZDFhMTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))) ·
+**Published:** [View live interactive dashboard 🚀] : ([https://app.powerbi.com/groups/9305f1be-4c49-4649-9787-33951d391de3/reports/41c63d92-6e4b-45f4-ad4b-a5cc3481c368?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNmMxNGYwMTMtODk1Ni00MjY1LWI5ZTktNmM0Y2M0ZDFhMTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))) ·
 
 ---
 
