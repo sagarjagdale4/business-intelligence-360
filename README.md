@@ -22,9 +22,8 @@ An end-to-end business intelligence solution that consolidates **Finance, Sales,
 
 ---
 
-## Files in this repo
-- `dashboards (1).pdf` — full report PDF   
-- Request PBIX file: contact via LinkedIn (https://www.linkedin.com/in/YOUR_LINKEDIN)  
+## Request PBIX file 
+- contact via LinkedIn or Email
 
 ---
 
@@ -38,11 +37,7 @@ An end-to-end business intelligence solution that consolidates **Finance, Sales,
 ---
 
 ## Contact
-**Name:** Sagar Jagdale 
-**LinkedIn:** (https://www.linkedin.com/in/sagar-jagdale-922a81290/)
-**Email:** jagdalesagar040@gmail.com
+- **Name:** Sagar Jagdale 
+- **LinkedIn:** (https://www.linkedin.com/in/sagar-jagdale-922a81290/)
+- **Email:** jagdalesagar040@gmail.com
 
----
-
-## License
-MIT License — feel free to study, reuse, and provide credit.
